@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently preparing DSA with java and also learning Full Stack Development<br>👯 I’m looking to collaborate on projects related to Web Development <br>🤝 I’m looking for help with the DSA <br>💬 Ask me if you need any help 
+🔭 Aspiring Full Stack Developer<br>👯 I’m looking to collaborate on projects related to Web Development <br>🤝 I’m looking for help with the DSA <br>💬 Ask me if you need any help 
 
 
 ## 🌐 Socials:
